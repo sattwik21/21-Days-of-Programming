@@ -1,4 +1,4 @@
-a=input("Enter a Word or Phrase")
+a=input("Enter a Word or Phrase\n")
 b=reversed(a)
 if list(a)==list(b):
     print("Yes its a pallindrome")
